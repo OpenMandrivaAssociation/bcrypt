@@ -1,5 +1,5 @@
 %define	version 1.1
-%define rel	7
+%define rel	8
 %define	release	%mkrel %rel
 
 Name:		bcrypt
