@@ -1,11 +1,7 @@
-%define	version 1.1
-%define rel	8
-%define	release	%mkrel %rel
-
 Name:		bcrypt
 Summary:	A lightweight blowfish file encryption utility
-Version:	%{version} 
-Release:	%{release} 
+Version:	1.1 
+Release:	%mkrel 8 
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	%{name}.1.bz2
 URL:		http://bcrypt.sourceforge.net/index.html
