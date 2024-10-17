@@ -4,7 +4,7 @@ Version:	1.1
 Release:	%mkrel 8 
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	%{name}.1.bz2
-URL:		http://bcrypt.sourceforge.net/index.html
+URL:		https://bcrypt.sourceforge.net/index.html
 Group:		Archiving/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	BSD
