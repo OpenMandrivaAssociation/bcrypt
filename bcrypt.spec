@@ -8,6 +8,7 @@ URL:		https://bcrypt.sourceforge.net/index.html
 Group:		Archiving/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	BSD
+BuildRequires:	make
 BuildRequires:	zlib-devel
 
 %description
